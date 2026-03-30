@@ -19,3 +19,14 @@ button {
   cursor: pointer;
 }
 
+input, select, textarea {
+  display: block;
+  margin-bottom: 10px;
+  width: 100%;
+  padding: 8px;
+}
+
+.error {
+  color: red;
+}
+
